@@ -1,2 +1,2 @@
 # Movie-search-engine-
-Html Css Vanilla Javascript ile OMDB Api den veri alarak film arama motoru
+Movie search engine by getting data from OMDB Api with Html Css Vanilla Javascript
